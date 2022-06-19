@@ -308,6 +308,8 @@ body {
   position: absolute;
   height: 0;
   top: 23px;
+  right: 0;
+  left: 0;
   opacity: 0;
   padding: 18px 8%;
   background-color: white;
